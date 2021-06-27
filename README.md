@@ -6,6 +6,7 @@ In this era of social media where we share almost everything about our lifes fro
 
 So we made a model which would detect group different types of PII detected in the photos. With this we would be able to analyse the % of PII a user shares on his/her instagram. The future use of this model is great like we could develop an app in which you first upload a pic which could analysis if there is any PII detected in our picture / information which could be used against us.
 
+<a href="https://drive.google.com/drive/folders/1YcFVLtcl4sqNBMt_QrTCnuoQgrgPGUfA?usp=sharing"> Data Link </a> </br>
 <a href="https://cse648psosm2021.blogspot.com/2021/05/privita-pii-analyzer-for-image-content.html"> Blog Link </a> </br>
 <a href="https://www.youtube.com/watch?v=hvffDqbpP-s"> Video Link </a>
 
